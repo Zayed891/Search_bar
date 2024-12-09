@@ -61,9 +61,7 @@ h1 {
 @media (max-width: 600px) {
   .app-container {
     padding: 10px;
-    margin-left: 15px;
-    margin-top: 20px;
-    margin-bottom: -10px;
+    margin: 15px
   }
 
   .search-box input,
